@@ -1,6 +1,6 @@
 # Node.js server access PostgreSQL, MSSQL, MySQL, MariaDB, SQLite3, Oracle, and Amazon Redshift
 
-## additional packages need to be installed
+## 1. additional packages need to be installed
 
 ```
 npm install pg
@@ -13,7 +13,7 @@ npm install mssql
 
 Notes: pg for PostgreSQL and Amazon Redshift, mysql for MySQL or MariaDB
 
-## change configuration file config.json
+## 2. change configuration file config.json
 
 ```
 
