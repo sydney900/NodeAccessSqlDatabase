@@ -1,4 +1,4 @@
-# Node.js server access PostgreSQL, MSSQL, MySQL, MariaDB, SQLite3, Oracle, and Amazon Redshift by making use of Knex.js
+## Node.js server access PostgreSQL, MSSQL, MySQL, MariaDB, SQLite3, Oracle, and Amazon Redshift by making use of Knex.js
 
 ## 1. additional packages need to be installed
 
